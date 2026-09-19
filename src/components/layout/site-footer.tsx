@@ -113,15 +113,7 @@ export function SiteFooter() {
           <p>© {new Date().getFullYear()} D.F.T Limited. All rights reserved.</p>
           <p className="text-center sm:text-right">
             Trading involves risk. Past performance is not indicative of future results.
-            <br className="sm:hidden" /> Photography by{" "}
-            <a
-              href="https://unsplash.com"
-              target="_blank"
-              rel="noreferrer"
-              className="underline decoration-white/20 underline-offset-2 hover:text-white"
-            >
-              Unsplash
-            </a>
+            
             .
           </p>
         </div>
